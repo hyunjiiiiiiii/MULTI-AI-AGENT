@@ -3,4 +3,4 @@ MULTI_AI_AGENT.egg-info/
 logs/
 .env
 __pycache__/
-.DS_Store/
+.DS_Store
